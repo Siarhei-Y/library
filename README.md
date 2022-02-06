@@ -50,6 +50,7 @@
 | Name  | Type |
 | ------------- | ------------- |
 | [Data Science eBooks, Interview Resources and Cheat sheets](https://reconshell.com/data-science-ebooks-interview-resources-and-cheat-sheets/)  | Books/materials |
+| [2022 Coursera Data Science Curriculum (beginner-friendly)](https://mrdbourke.notion.site/mrdbourke/2022-Coursera-Data-Science-Curriculum-beginner-friendly-5acf720143314f95a1f4a934a447d5c4)  | Coursera |
 
 
 
